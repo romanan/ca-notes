@@ -5,9 +5,11 @@
 ## General
 
 - [vancouver school board](https://www.vsb.bc.ca/)
+  - [Registration](https://www.vsb.bc.ca/nwc/page/11332/registration)
+  - [Required Document](https://www.vsb.bc.ca/nwc/page/11336/required-documents)
 - [high/secondary schools in Vancouver](https://en.wikipedia.org/wiki/Category:High_schools_in_Vancouver)
-- [fraser institute ](https://www.fraserinstitute.org/search/site/British%2520Columbia%2520secondary%2520school)
-- [BC secondary school report card](https://www.fraserinstitute.org/sites/default/files/bc-secondary-school-rankings-2020-13658.pdf)
+- [Search results of BC school in Fraser Institute ](https://www.fraserinstitute.org/search/site/British%2520Columbia%2520secondary%2520school)
+  - [BC secondary school report card](https://www.fraserinstitute.org/sites/default/files/bc-secondary-school-rankings-2020-13658.pdf)
 
 ## Curriculum
 
